@@ -83,9 +83,11 @@ nav ul li a:hover {
 .about-col-1{
  flex-basis: 35%;
 }
+
 .about-col-1 img{
     width: 100%;
     border-radius: 15px;
+    
 }
 .about-col-2{
     flex-basis: 60% ;
@@ -332,7 +334,7 @@ nav .icon{
     
 
   #header{
-    background-image: url(images/phone-background.png);
+    background-image: url(images/rafy3.png);
   }
   .header-text{
     margin-top: 100%;
