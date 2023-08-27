@@ -343,9 +343,9 @@ nav .icon{
 @media only screen and (max-width:600px)  {
     
 
-  #header{
+  /* #header{
     background-image: url(images/rafy3.png);
-  }
+  } */
   .header-text{
     margin-top: 100%;
     font-size: 16px;
